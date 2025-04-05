@@ -4,6 +4,9 @@ torchaudio
 torchmetrics
 pytorch-lightning
 sentencepiece
+diffusers
+accelerate
+peft
 tokenizers
 transformers
 numexpr
@@ -22,3 +25,5 @@ regex
 safetensors
 sympy
 timm
+numexpr 
+einops
